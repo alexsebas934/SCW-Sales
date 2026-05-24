@@ -1,0 +1,6 @@
+{
+  "name": "SCW Sales",
+  "description": "Luxurious, high-converting premium parts, specialized in Ford and Mustang restoration, modifications, custom lights, and collector items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
